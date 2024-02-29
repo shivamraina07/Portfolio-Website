@@ -1,0 +1,43 @@
+.infocontainer{
+    margin: 41px 82px;
+}
+.devinfo h1{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.devinfo p{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+.skillcontainer h1{
+    margin: 10px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.skillitem{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Protest Revolution', sans-serif;
+}
+.skill{
+    background-color: red;
+    height: 5px;
+    width: 230px;
+}
+.hundred{
+    width:300px
+}
+.seventyfive{
+    width: 225px;
+}
+.fifty{
+    width:150px;
+}
+.twentyfive{
+    width: 75px;
+}

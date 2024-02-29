@@ -1,0 +1,72 @@
+h3 {
+    text-align: center;
+    margin:57px 80px 48px 80px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+.git a img{
+    width: 80px;
+    margin-left: 60px;
+}
+.gitid {
+    display: inline-block;
+    margin: 39px;
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.linkedin a img{
+    width: 80px;
+    margin-left: 60px;
+}
+.linkedinid{
+    position: absolute;
+    display: inline-block;
+    margin: 36px;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+.gmail img{
+    width: 80px;
+    margin-left: 60px;
+    }
+.mail{
+    position: absolute;
+    display: inline-block;
+    margin: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px;
+}
+.call img{
+    width: 80px;
+    margin-left: 60px;
+}
+.number{
+    position: absolute;
+    display: inline-block;
+    margin: 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 21px;
+}
+.devpic{
+        position: absolute;
+        transform: translate(664px,-353px);
+}
+.devpic img {
+    height: 65vh;
+    width: 32vw;
+}
+@media (max-width:500px){
+    .devpic{
+        position: absolute;
+        transform: translate(150px,0px);
+    }
+    .devpic img {
+        height: 50vh;
+        width: 70vw;
+    }
+}
